@@ -25,7 +25,7 @@ body {
         height: 200px;
         background: green;
         display: inline-block;
-        margin: 0px 80px;
+        margin: 0% 12%;
    
       }
       .lightblue {
@@ -34,7 +34,6 @@ body {
         background: lightblue;
         display: inline-block;
         border-radius: 50%;
-
       }
   
   .box2 {
