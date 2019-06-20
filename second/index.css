@@ -1,0 +1,88 @@
+body {
+    background-color:rgb(255, 255, 255);
+    padding: 2.5%;
+    margin: 0;
+}
+.box1 {
+    width: 100%;
+    border: 5px solid black;
+    padding: 4%;
+    box-sizing: border-box ;
+    margin-top: 3%;
+  }
+  
+      .purple {
+        width: 50px;
+        height: 180px;
+        background: purple;
+        display: inline-block;
+        margin: -3%;
+
+      }
+   
+      .green {
+        width: 400px;
+        height: 200px;
+        background: green;
+        display: inline-block;
+        margin: 0px 80px;
+   
+      }
+      .lightblue {
+        width: 150px;
+        height: 150px;
+        background: lightblue;
+        display: inline-block;
+        border-radius: 50%;
+
+      }
+  
+  .box2 {
+    width: 100%;
+    border: 5px solid black;
+    border-style: dashed;
+    padding: 4%;
+    box-sizing: border-box ;
+    margin-top: 3%;
+  }
+         .boxshadow {
+    background-color: #f2edd0;
+    padding: 90px;
+    width: 650px;
+    margin: 0 auto;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }
+    
+
+  .box3 {
+    width: 100%;
+    border: 1px solid rgb(23, 12, 83);
+    box-sizing: content-box;
+    padding-bottom: 10%;
+    width: 60%;
+    height: 30%;
+    margin: 5% 0% 0% 20%;
+    -webkit-box-shadow: 3px 2px 3px 0px rgba(25,14,235,0.5);
+-moz-box-shadow: 3px 2px 3px 0px rgba(25,14,235,0.5);
+box-shadow: 3px 2px 3px 0px rgba(25,14,235,0.5);
+    
+    
+  }
+     .h1 {
+        font-family: Verdana, Geneva, sans-serif;
+        font-size: 25px;
+        letter-spacing: 10px;
+        word-spacing: 20px;
+        color: #4838AD;
+        font-weight: 700;
+        text-decoration: none;
+        font-style: normal;
+        font-variant: small-caps;
+        text-transform: none;
+        text-align: center;
+        margin-top: 5%;
+        padding-top: 5%;
+
+     }
